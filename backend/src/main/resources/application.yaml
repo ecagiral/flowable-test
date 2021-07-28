@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: flowable-service
+  server:
+    port: 9000
+    cors:
+      enabled: true
